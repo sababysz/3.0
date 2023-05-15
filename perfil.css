@@ -1,0 +1,78 @@
+#home-perfil {
+  width: 90px;
+  position: absolute;
+  text-align: center;
+  position: absolute;
+  top: 42%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+body {
+  height: 100%;
+}
+
+.perfil p {
+  position: relative;
+  text-align: center;
+  margin-top: 30%;
+  font-size: 14px;
+  top: 130px;
+  left: 47%;
+  transform: translate(-50%);
+  margin: 7px;
+}
+
+
+.perfil h1 {
+  text-align: center;
+  position: absolute;
+  top: 64%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  font-size: 45px;
+}
+
+.perfil img {
+  width: 20px;
+  position: absolute;
+  top: 625px;
+  left: 8%;
+  box-shadow: rgba(0, 0, 0, 0.5);
+}
+
+.git2 img {
+  width: 55px;
+  position: absolute;
+  top: 622px;
+  left: 14%;
+  box-shadow: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.insta1 img {
+  width: 26px;
+  position: absolute;
+  top: 622px;
+  left: 38%;
+  box-shadow: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.insta2 img {
+  width: 60px;
+  position: absolute;
+  top: 614px;
+  left: 46%;
+  box-shadow: rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0);
+}
+
+
+.pinterest img {
+  width: 90px;
+  position: absolute;
+  top: 623px;
+  left: 70%;
+  box-shadow: rgba(0, 0, 0, 0.5);
+}
